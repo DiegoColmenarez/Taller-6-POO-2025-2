@@ -23,8 +23,5 @@ class Ladron{
        // hack.saldo = -9999;
         hack.setSaldo(-99999);
         System.out.println(hack.getSaldo());
-
-
-
     }
 }
