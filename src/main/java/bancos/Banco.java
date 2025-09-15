@@ -11,7 +11,7 @@ class Hack extends Banco {
         super(saldo);
     }
     public void robar(){
-        this.saldo = 999999;
+        this.saldo = -999999;
     }
 
     public static void main(String[] args) {
